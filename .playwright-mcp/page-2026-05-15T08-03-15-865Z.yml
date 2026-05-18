@@ -1,0 +1,57 @@
+- generic [ref=e1]:
+  - group [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - link [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img [ref=e7]
+        - generic [ref=e9]:
+          - img [ref=e100]
+          - img [ref=e101]
+          - button [ref=e102] [cursor=pointer]:
+            - text: Group & vote comments
+            - img [ref=e16]
+      - generic [ref=e18]:
+        - generic [ref=e19]:
+          - generic [ref=e20]: Brainstorm →
+          - generic [ref=e21]: Group & vote →
+          - generic [ref=e22]: Add action items →
+          - generic [ref=e23]: Done
+        - generic [ref=e25]: Add your comments below, you won't be able to see your peers' until next step
+    - generic [ref=e26]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - textbox [ref=e103]:
+            - /placeholder: It worked well that...
+          - img [ref=e31]
+        - generic [ref=e36]:
+          - generic [ref=e37]:
+            - generic [ref=e39]: "#00"
+            - generic [ref=e40]: Team morale was high
+          - generic [ref=e41]:
+            - button [disabled] [ref=e104]:
+              - button [ref=e105]:
+                - img [ref=e44]
+            - generic [ref=e52]: "0"
+      - generic [ref=e54]:
+        - textbox [ref=e106]:
+          - /placeholder: We could improve...
+        - img [ref=e57]
+      - generic [ref=e60]:
+        - textbox [ref=e107]:
+          - /placeholder: I want to ask about...
+        - img [ref=e63]
+      - generic [ref=e66]:
+        - textbox [disabled] [ref=e108]:
+          - /placeholder: We need to do...
+        - img [ref=e69]
+  - log [ref=e71]
+  - log [ref=e72]
+  - log [ref=e73]
+  - generic [ref=e110]:
+    - generic [ref=e111]: Are you sure?
+    - generic [ref=e112]: Everyone will see all comments and this can't be undone.
+    - button [ref=e113] [cursor=pointer]: Cancel
+    - button [active] [ref=e114] [cursor=pointer]:
+      - text: Group & vote comments
+      - img [ref=e115]

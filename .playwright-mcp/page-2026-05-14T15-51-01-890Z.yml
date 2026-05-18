@@ -1,0 +1,83 @@
+- generic [ref=e1]:
+  - group [ref=e3]:
+    - generic [ref=e299]:
+      - generic [ref=e300]:
+        - link [ref=e301] [cursor=pointer]:
+          - /url: /
+          - img [ref=e302]
+        - generic [ref=e304]:
+          - img [ref=e354]
+          - img [ref=e355]
+          - button [disabled]:
+            - text: Group & vote comments
+            - img
+      - generic [ref=e310]:
+        - generic [ref=e311]:
+          - generic [ref=e312]: Brainstorm →
+          - generic [ref=e313]: Group & vote →
+          - generic [ref=e314]: Add action items →
+          - generic [ref=e315]: Done
+        - generic [ref=e317]: Add your comments below, you won't be able to see your peers' until next step
+    - generic [ref=e318]:
+      - generic [ref=e320]:
+        - textbox [ref=e356]:
+          - /placeholder: It worked well that...
+        - img [ref=e323]
+      - generic [ref=e326]:
+        - textbox [ref=e357]:
+          - /placeholder: We could improve...
+        - img [ref=e329]
+      - generic [ref=e332]:
+        - textbox [ref=e358]:
+          - /placeholder: I want to ask about...
+        - img [ref=e335]
+      - generic [ref=e337]:
+        - generic [ref=e338]:
+          - textbox [disabled] [ref=e359]:
+            - /placeholder: We need to do...
+          - img [ref=e341]
+        - generic [ref=e343]: Action items from previous retro
+        - generic [ref=e348] [cursor=pointer]:
+          - checkbox [ref=e360]
+          - generic [ref=e350]: Create a timekeeper rotation
+  - log [ref=e351]
+  - log [ref=e352]
+  - log [ref=e353]
+  - generic [ref=e362]:
+    - img [ref=e364]
+    - generic [ref=e366]:
+      - text: Retro tool is totally anonymous and doesn't track or store any personal information. You can read more about it in our
+      - link [ref=e367] [cursor=pointer]:
+        - /url: /
+        - text: landing page
+      - text: .
+    - generic [ref=e368]:
+      - text: Developed by
+      - link [ref=e369] [cursor=pointer]:
+        - /url: https://twitter.com/uesteibar
+        - text: Unai Esteibar
+      - text: ","
+      - link [ref=e370] [cursor=pointer]:
+        - /url: https://twitter.com/marciobarrios
+        - text: Marcio Barrios
+      - text: ","
+      - link [ref=e371] [cursor=pointer]:
+        - /url: https://twitter.com/andrzej_trzaska
+        - text: Andrzej Trzaska
+      - text: ","
+      - link [ref=e372] [cursor=pointer]:
+        - /url: https://twitter.com/iamsilesc
+        - text: Christian Siles
+      - text: and
+      - link [ref=e373] [cursor=pointer]:
+        - /url: https://twitter.com/Rude
+        - text: Rude Ayelo
+      - text: .
+    - generic [ref=e374]:
+      - text: "This tool is free and open source:"
+      - link [ref=e375] [cursor=pointer]:
+        - /url: https://github.com/retro-tool
+        - text: https://github.com/retro-tool
+    - button [active] [ref=e377] [cursor=pointer]:
+      - text: Close
+      - img [ref=e378]

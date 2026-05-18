@@ -1,0 +1,4 @@
+[     132ms] [ERROR] Access to fetch at 'https://www.retrotool.app/api/graph' from origin 'null' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ about:blank:0
+[     133ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://www.retrotool.app/api/graph:0
+[   56394ms] [ERROR] Access to fetch at 'https://www.retrotool.app/api/graph' from origin 'null' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ about:blank:0
+[   56394ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://www.retrotool.app/api/graph:0

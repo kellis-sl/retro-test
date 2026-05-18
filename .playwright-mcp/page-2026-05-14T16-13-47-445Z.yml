@@ -1,0 +1,46 @@
+- generic [ref=e1]:
+  - group [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - link [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img [ref=e7]
+        - generic [ref=e9]:
+          - img "Retro not protected by password" [ref=e10]
+          - img "More info about Retro tool" [ref=e13]
+          - button "Group & vote comments" [ref=e51] [cursor=pointer]:
+            - text: Group & vote comments
+            - img [ref=e52]
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - generic [ref=e17]: Brainstorm →
+          - generic [ref=e18]: Group & vote →
+          - generic [ref=e19]: Add action items →
+          - generic [ref=e20]: Done
+        - generic [ref=e22]: Add your comments below, you won't be able to see your peers' until next step
+    - generic [ref=e23]:
+      - generic [ref=e24]:
+        - generic [ref=e25]:
+          - textbox "It worked well that..." [active] [ref=e26]
+          - img [ref=e28]
+        - generic [ref=e57]:
+          - generic [ref=e58]:
+            - generic [ref=e60]: "#00"
+            - generic [ref=e61]: API test comment
+          - generic [ref=e62]:
+            - button "animation" [disabled] [ref=e63]:
+              - button "animation" [ref=e64]:
+                - img [ref=e65]
+            - generic [ref=e73]: "0"
+      - generic [ref=e31]:
+        - textbox "We could improve..." [ref=e32]
+        - img [ref=e34]
+      - generic [ref=e37]:
+        - textbox "I want to ask about..." [ref=e38]
+        - img [ref=e40]
+      - generic [ref=e43]:
+        - textbox "We need to do..." [disabled] [ref=e44]
+        - img [ref=e46]
+  - log [ref=e48]
+  - log [ref=e49]
+  - log [ref=e50]

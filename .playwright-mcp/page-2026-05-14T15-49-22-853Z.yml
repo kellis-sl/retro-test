@@ -1,0 +1,71 @@
+- generic [ref=e1]:
+  - group [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - link [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img [ref=e7]
+        - generic [ref=e9]:
+          - img [ref=e118]
+          - img [ref=e119]
+          - button [ref=e120] [cursor=pointer]:
+            - text: Group & vote comments
+            - img [ref=e52]
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - generic [ref=e17]: Brainstorm →
+          - generic [ref=e18]: Group & vote →
+          - generic [ref=e19]: Add action items →
+          - generic [ref=e20]: Done
+        - generic [ref=e22]: Add your comments below, you won't be able to see your peers' until next step
+    - generic [ref=e23]:
+      - generic [ref=e25]:
+        - textbox [ref=e121]:
+          - /placeholder: It worked well that...
+        - img [ref=e28]
+      - generic [ref=e30]:
+        - generic [ref=e31]:
+          - textbox [ref=e122]:
+            - /placeholder: We could improve...
+          - img [ref=e34]
+        - generic [ref=e77]:
+          - generic [ref=e78]:
+            - generic [ref=e80]: "#01"
+            - generic [ref=e81]: Meeting time management
+          - generic [ref=e82]:
+            - button [disabled] [ref=e123]:
+              - button [ref=e124]:
+                - img [ref=e85]
+            - generic [ref=e93]: "0"
+      - generic [ref=e36]:
+        - generic [ref=e37]:
+          - textbox [ref=e125]:
+            - /placeholder: I want to ask about...
+          - img [ref=e40]
+        - generic [ref=e97]:
+          - generic [ref=e98]:
+            - generic [ref=e100]: "#02"
+            - generic [ref=e101]: What are our sprint goals?
+          - generic [ref=e102]:
+            - button [disabled] [ref=e126]:
+              - button [ref=e127]:
+                - img [ref=e105]
+            - generic [ref=e113]: "0"
+      - generic [ref=e43]:
+        - textbox [disabled] [ref=e128]:
+          - /placeholder: We need to do...
+        - img [ref=e46]
+  - log [ref=e48]
+  - log [ref=e49]
+  - log [ref=e50]
+  - generic [ref=e130]:
+    - heading [level=1] [ref=e131]: Do you want to make this retro private?
+    - generic [ref=e132]: Anyone with access to this retro can set, change or remove a password.
+    - generic [ref=e133]:
+      - textbox [active] [ref=e134]:
+        - /placeholder: Write password...
+      - generic [ref=e135]:
+        - button [ref=e136] [cursor=pointer]: Cancel
+        - button [ref=e138] [cursor=pointer]:
+          - text: Set
+          - generic [ref=e139]: Password

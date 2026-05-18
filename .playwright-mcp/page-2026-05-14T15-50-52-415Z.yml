@@ -1,0 +1,41 @@
+- generic [ref=e1]:
+  - group [ref=e3]:
+    - generic [ref=e299]:
+      - generic [ref=e300]:
+        - link [ref=e301] [cursor=pointer]:
+          - /url: /
+          - img [ref=e302]
+        - generic [ref=e304]:
+          - img "Retro not protected by password" [ref=e305]
+          - img "More info about Retro tool" [ref=e308]
+          - button "Group & vote comments" [disabled]:
+            - text: Group & vote comments
+            - img
+      - generic [ref=e310]:
+        - generic [ref=e311]:
+          - generic [ref=e312]: Brainstorm →
+          - generic [ref=e313]: Group & vote →
+          - generic [ref=e314]: Add action items →
+          - generic [ref=e315]: Done
+        - generic [ref=e317]: Add your comments below, you won't be able to see your peers' until next step
+    - generic [ref=e318]:
+      - generic [ref=e320]:
+        - textbox "It worked well that..." [active] [ref=e321]
+        - img [ref=e323]
+      - generic [ref=e326]:
+        - textbox "We could improve..." [ref=e327]
+        - img [ref=e329]
+      - generic [ref=e332]:
+        - textbox "I want to ask about..." [ref=e333]
+        - img [ref=e335]
+      - generic [ref=e337]:
+        - generic [ref=e338]:
+          - textbox "We need to do..." [disabled] [ref=e339]
+          - img [ref=e341]
+        - generic [ref=e343]: Action items from previous retro
+        - generic [ref=e348] [cursor=pointer]:
+          - checkbox "Create a timekeeper rotation" [ref=e349]
+          - generic [ref=e350]: Create a timekeeper rotation
+  - log [ref=e351]
+  - log [ref=e352]
+  - log [ref=e353]

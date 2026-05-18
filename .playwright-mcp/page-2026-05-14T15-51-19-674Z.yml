@@ -1,0 +1,51 @@
+- generic [ref=e1]:
+  - group [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - link [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img [ref=e7]
+        - generic [ref=e9]:
+          - img [ref=e51]
+          - img [ref=e52]
+          - button [disabled]:
+            - text: Group & vote comments
+            - img
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - generic [ref=e17]: Brainstorm →
+          - generic [ref=e18]: Group & vote →
+          - generic [ref=e19]: Add action items →
+          - generic [ref=e20]: Done
+        - generic [ref=e22]: Add your comments below, you won't be able to see your peers' until next step
+    - generic [ref=e23]:
+      - generic [ref=e25]:
+        - textbox [ref=e53]:
+          - /placeholder: It worked well that...
+        - img [ref=e28]
+      - generic [ref=e31]:
+        - textbox [ref=e54]:
+          - /placeholder: We could improve...
+        - img [ref=e34]
+      - generic [ref=e37]:
+        - textbox [ref=e55]:
+          - /placeholder: I want to ask about...
+        - img [ref=e40]
+      - generic [ref=e43]:
+        - textbox [disabled] [ref=e56]:
+          - /placeholder: We need to do...
+        - img [ref=e46]
+  - log [ref=e48]
+  - log [ref=e49]
+  - log [ref=e50]
+  - generic [ref=e58]:
+    - heading [level=1] [ref=e59]: Do you want to make this retro private?
+    - generic [ref=e60]: Anyone with access to this retro can set, change or remove a password.
+    - generic [ref=e61]:
+      - textbox [active] [ref=e62]:
+        - /placeholder: Write password...
+      - generic [ref=e63]:
+        - button [ref=e64] [cursor=pointer]: Cancel
+        - button [ref=e66] [cursor=pointer]:
+          - text: Set
+          - generic [ref=e67]: Password

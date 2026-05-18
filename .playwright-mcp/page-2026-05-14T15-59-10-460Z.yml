@@ -1,0 +1,108 @@
+- group [ref=e3]:
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - img [ref=e6]
+      - generic [ref=e8]:
+        - link "Contact us" [ref=e10] [cursor=pointer]:
+          - /url: mailto:hi@retrotool.app
+        - text: ·
+        - link "Github" [ref=e12] [cursor=pointer]:
+          - /url: https://github.com/retro-tool/
+    - main [ref=e13]:
+      - generic [ref=e14]:
+        - heading "Retro tool, simple and effective retrospectives for your team" [level=1] [ref=e15]:
+          - text: Retro tool,
+          - generic [ref=e16]: simple and effective
+          - text: retrospectives for your team
+        - generic [ref=e18]: Collaborate with your remote team to improve what you do, guided by a simple workflow. And for free!
+        - generic [ref=e19]:
+          - link "Start a new retro" [ref=e20] [cursor=pointer]:
+            - /url: /new
+          - link "See how it works" [ref=e21] [cursor=pointer]:
+            - /url: "#how-it-works"
+        - generic [ref=e22]:
+          - text: Already
+          - generic [ref=e23]: 52,287 retros
+          - text: and counting.
+      - generic [ref=e26]:
+        - generic [ref=e27]:
+          - img [ref=e28]
+          - heading "Easy peasy" [level=3] [ref=e30]
+          - generic [ref=e31]: A mobile friendly UI with a clean and fast workflow that doesn't even need a tutorial.
+          - generic [ref=e32]: Did we already say that it's free?
+        - generic [ref=e33]:
+          - img [ref=e34]
+          - heading "Anonymous" [level=3] [ref=e36]
+          - generic [ref=e37]: We don't track or store any personal information.
+          - generic [ref=e38]: The code is open source so you can always check what we are doing.
+        - generic [ref=e39]:
+          - img [ref=e40]
+          - heading "Real time" [level=3] [ref=e42]
+          - generic [ref=e43]: Every change from your colleagues is shown instantly.
+          - generic [ref=e44]: You can see how others add topics, but you can only read your own until the voting phase.
+        - generic [ref=e45]:
+          - img [ref=e46]
+          - heading "No login & private" [level=3] [ref=e49]
+          - generic [ref=e50]: A retro is just a url, we don't even ask for your name or email!
+          - generic [ref=e51]: Also you can make any retro private adding a password, and still no login required.
+      - generic [ref=e54]:
+        - heading "How to use Retro tool" [level=2] [ref=e55]
+        - generic [ref=e56]: The main and only screen is a 4 columns layout where you can add different topics and action items (unless you are on tablet or mobile, in that case the UI will adapt).
+        - generic [ref=e57]: A retro consists of 4 simple guided steps, you can always see the phase you're in the breadcrumb and you can advance to the next step with the button placed in the header.
+        - heading "Brainstorm" [level=3] [ref=e58]
+        - generic [ref=e59]:
+          - text: The first screen is where
+          - strong [ref=e60]: you and your team can add topics
+          - text: like
+          - emphasis [ref=e61]: what went well
+          - text: ","
+          - emphasis [ref=e62]: what can be improved
+          - text: and
+          - emphasis [ref=e63]: questions
+          - text: ", usually this step is done asynchronously. A good idea is to share the retro url some days before the retro meeting."
+        - heading "Group & vote" [level=3] [ref=e64]
+        - generic [ref=e65]:
+          - text: This step is to
+          - strong [ref=e66]: group and vote
+          - text: so you know what the most important topics are for your team. Usually this step and the following are done synchronously with your team.
+        - heading "Add action items" [level=3] [ref=e67]
+        - generic [ref=e68]:
+          - text: This step is where your team
+          - strong [ref=e69]: discusses the prioritized topics
+          - text: and where you can add action items to address those topics after the retro.
+        - heading "Done" [level=3] [ref=e70]
+        - generic [ref=e71]:
+          - text: The last step is ending the retro, and at this point you can
+          - strong [ref=e72]: export all the topics
+          - text: in plain text or
+          - strong [ref=e73]: create a linked retro
+          - text: .
+        - generic [ref=e74]:
+          - strong [ref=e75]: "Tip:"
+          - text: You can create a retro with a
+          - strong [ref=e76]: custom name
+          - text: by writing it in the url. If you choose this pattern
+          - emphasis [ref=e77]: https://retrotool.app/any-name-1
+          - text: ", when you create a linked retro in the last step it will create the retro"
+          - emphasis [ref=e78]: https://retrotool.app/any-name-2
+          - text: and it will show all the previous action items.
+    - contentinfo [ref=e79]:
+      - generic [ref=e81]:
+        - generic [ref=e82]: Made with
+        - img [ref=e83]
+        - generic [ref=e85]:
+          - text: by
+          - link "Unai Esteibar" [ref=e86] [cursor=pointer]:
+            - /url: https://twitter.com/uesteibar
+          - text: ","
+          - link "Marcio Barrios" [ref=e87] [cursor=pointer]:
+            - /url: https://twitter.com/marciobarrios
+          - text: ","
+          - link "Andrzej Trzaska" [ref=e88] [cursor=pointer]:
+            - /url: https://twitter.com/andrzej_trzaska
+          - text: ","
+          - link "Christian Siles" [ref=e89] [cursor=pointer]:
+            - /url: https://twitter.com/iamsilesc
+          - text: and
+          - link "Rude Ayelo" [ref=e90] [cursor=pointer]:
+            - /url: https://twitter.com/Rude

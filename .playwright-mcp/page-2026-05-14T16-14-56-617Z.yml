@@ -1,0 +1,57 @@
+- generic [ref=e1]:
+  - group [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - link [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img [ref=e7]
+        - generic [ref=e9]:
+          - img "Retro not protected by password" [ref=e10]
+          - img "More info about Retro tool" [ref=e13]
+          - button "Group & vote comments" [ref=e15] [cursor=pointer]:
+            - text: Group & vote comments
+            - img [ref=e16]
+      - generic [ref=e18]:
+        - generic [ref=e19]:
+          - generic [ref=e20]: Brainstorm →
+          - generic [ref=e21]: Group & vote →
+          - generic [ref=e22]: Add action items →
+          - generic [ref=e23]: Done
+        - generic [ref=e25]: Add your comments below, you won't be able to see your peers' until next step
+    - generic [ref=e26]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - textbox "It worked well that..." [active] [ref=e29]
+          - img [ref=e31]
+        - generic [ref=e33]:
+          - generic [ref=e36]:
+            - generic [ref=e37]:
+              - generic [ref=e39]: "#00"
+              - generic [ref=e40]: API test comment
+            - generic [ref=e41]:
+              - button "animation" [disabled] [ref=e42]:
+                - button "animation" [ref=e43]:
+                  - img [ref=e44]
+              - generic [ref=e52]: "0"
+          - generic [ref=e55]:
+            - generic [ref=e56]:
+              - button [ref=e94] [cursor=pointer]:
+                - img [ref=e95]
+              - generic [ref=e59]: Comment to delete via API
+            - generic [ref=e60]:
+              - button "animation" [disabled] [ref=e61]:
+                - button "animation" [ref=e62]:
+                  - img [ref=e63]
+              - generic [ref=e71]: "0"
+      - generic [ref=e73]:
+        - textbox "We could improve..." [ref=e74]
+        - img [ref=e76]
+      - generic [ref=e79]:
+        - textbox "I want to ask about..." [ref=e80]
+        - img [ref=e82]
+      - generic [ref=e85]:
+        - textbox "We need to do..." [disabled] [ref=e86]
+        - img [ref=e88]
+  - log [ref=e90]
+  - log [ref=e91]
+  - log [ref=e92]

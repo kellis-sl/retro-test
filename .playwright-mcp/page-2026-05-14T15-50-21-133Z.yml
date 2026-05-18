@@ -1,0 +1,75 @@
+- generic [active] [ref=e1]:
+  - group [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - link [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img [ref=e7]
+        - generic [ref=e9]:
+          - img "Retro not protected by password" [ref=e170]
+          - img "More info about Retro tool" [ref=e171]
+          - button "Start new retro" [ref=e195] [cursor=pointer]:
+            - text: Start new retro
+            - img [ref=e196]
+          - button "Export" [ref=e198] [cursor=pointer]:
+            - text: Export
+            - img [ref=e199]
+      - generic [ref=e16]:
+        - generic [ref=e17]: Brainstorm →
+        - generic [ref=e18]: Group & vote →
+        - generic [ref=e19]: Add action items →
+        - generic [ref=e20]: Done
+    - generic [ref=e23]:
+      - generic:
+        - generic:
+          - textbox "It worked well that..."
+          - generic:
+            - img
+      - generic:
+        - generic:
+          - textbox "We could improve..."
+          - generic:
+            - img
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "#01"
+                  - generic: Meeting time management
+                - generic:
+                  - button "animation" [disabled] [ref=e180]:
+                    - button "animation" [ref=e181]:
+                      - img [ref=e85]
+                  - generic:
+                    - generic: "1"
+      - generic:
+        - generic:
+          - textbox "I want to ask about..."
+          - generic:
+            - img
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "#02"
+                  - generic: What are our sprint goals?
+                - generic:
+                  - button "animation" [disabled] [ref=e183]:
+                    - button "animation" [ref=e184]:
+                      - img [ref=e105]
+                  - generic:
+                    - generic: "0"
+      - generic [ref=e42]:
+        - generic [ref=e43]:
+          - textbox "We need to do..." [ref=e185]
+          - img [ref=e46]
+        - generic [ref=e192] [cursor=pointer]:
+          - checkbox "Create a timekeeper rotation" [ref=e193]
+          - generic [ref=e194]: Create a timekeeper rotation
+  - log [ref=e48]
+  - log [ref=e49]
+  - log [ref=e50]

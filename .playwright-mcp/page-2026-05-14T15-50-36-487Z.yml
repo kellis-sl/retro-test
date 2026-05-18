@@ -1,0 +1,36 @@
+- group [active] [ref=e3]:
+  - generic [ref=e201]:
+    - generic [ref=e202]:
+      - link [ref=e203] [cursor=pointer]:
+        - /url: /
+        - img [ref=e204]
+      - generic [ref=e206]:
+        - img "Retro not protected by password" [ref=e207]
+        - img "More info about Retro tool" [ref=e210]
+        - button "Start new retro" [ref=e212] [cursor=pointer]:
+          - text: Start new retro
+          - img [ref=e213]
+        - button "Back" [ref=e215] [cursor=pointer]:
+          - img [ref=e216]
+          - text: Back
+    - generic [ref=e219]:
+      - generic [ref=e220]: Brainstorm →
+      - generic [ref=e221]: Group & vote →
+      - generic [ref=e222]: Add action items →
+      - generic [ref=e223]: Done
+  - generic [ref=e225]:
+    - generic [ref=e226]:
+      - generic [ref=e227]: Improve
+      - list [ref=e228]:
+        - listitem [ref=e229]:
+          - generic [ref=e230]: Meeting time management
+    - generic [ref=e231]:
+      - generic [ref=e232]: Others
+      - list [ref=e233]:
+        - listitem [ref=e234]:
+          - generic [ref=e235]: What are our sprint goals?
+    - generic [ref=e236]:
+      - generic [ref=e237]: Action Items
+      - list [ref=e238]:
+        - listitem [ref=e239]:
+          - generic [ref=e240]: Create a timekeeper rotation

@@ -1,0 +1,67 @@
+- generic [ref=e1]:
+  - group [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - link [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img [ref=e7]
+        - generic [ref=e9]:
+          - img [ref=e151]
+          - img [ref=e152]
+          - button [ref=e153] [cursor=pointer]:
+            - text: Group & vote comments
+            - img [ref=e52]
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - generic [ref=e17]: Brainstorm →
+          - generic [ref=e18]: Group & vote →
+          - generic [ref=e19]: Add action items →
+          - generic [ref=e20]: Done
+        - generic [ref=e22]: Add your comments below, you won't be able to see your peers' until next step
+    - generic [ref=e23]:
+      - generic [ref=e25]:
+        - textbox [ref=e154]:
+          - /placeholder: It worked well that...
+        - img [ref=e28]
+      - generic [ref=e30]:
+        - generic [ref=e31]:
+          - textbox [ref=e155]:
+            - /placeholder: We could improve...
+          - img [ref=e34]
+        - generic [ref=e77]:
+          - generic [ref=e78]:
+            - generic [ref=e80]: "#01"
+            - generic [ref=e81]: Meeting time management
+          - generic [ref=e82]:
+            - button [disabled] [ref=e156]:
+              - button [ref=e157]:
+                - img [ref=e85]
+            - generic [ref=e93]: "0"
+      - generic [ref=e36]:
+        - generic [ref=e37]:
+          - textbox [ref=e158]:
+            - /placeholder: I want to ask about...
+          - img [ref=e40]
+        - generic [ref=e97]:
+          - generic [ref=e98]:
+            - generic [ref=e100]: "#02"
+            - generic [ref=e101]: What are our sprint goals?
+          - generic [ref=e102]:
+            - button [disabled] [ref=e159]:
+              - button [ref=e160]:
+                - img [ref=e105]
+            - generic [ref=e113]: "0"
+      - generic [ref=e43]:
+        - textbox [disabled] [ref=e161]:
+          - /placeholder: We need to do...
+        - img [ref=e46]
+  - log [ref=e48]
+  - log [ref=e49]
+  - log [ref=e50]
+  - generic [ref=e163]:
+    - generic [ref=e164]: Are you sure?
+    - generic [ref=e165]: Everyone will see all comments and this can't be undone.
+    - button [ref=e166] [cursor=pointer]: Cancel
+    - button [active] [ref=e167] [cursor=pointer]:
+      - text: Group & vote comments
+      - img [ref=e168]

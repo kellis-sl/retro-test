@@ -1,0 +1,26 @@
+- group [ref=e3]:
+  - generic [ref=e4]:
+    - generic [ref=e5]:
+      - link [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img [ref=e7]
+      - generic [ref=e9]:
+        - img "Retro not protected by password" [ref=e10]
+        - img "More info about Retro tool" [ref=e13]
+        - button "Discuss and add action items" [ref=e15] [cursor=pointer]:
+          - text: Discuss and add action items
+          - img [ref=e16]
+    - generic [ref=e18]:
+      - generic [ref=e19]:
+        - generic [ref=e20]: Brainstorm →
+        - generic [ref=e21]: Group & vote →
+        - generic [ref=e22]: Add action items →
+        - generic [ref=e23]: Done
+      - generic [ref=e25]: Drag and drop comments to group them together and vote for the ones you'd like to discuss about
+  - generic [ref=e26]:
+    - generic [ref=e29]:
+      - textbox "We could improve..." [ref=e30]
+      - img [ref=e32]
+    - generic [ref=e35]:
+      - textbox "I want to ask about..." [ref=e36]
+      - img [ref=e38]

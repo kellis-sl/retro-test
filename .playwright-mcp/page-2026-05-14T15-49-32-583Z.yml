@@ -1,0 +1,56 @@
+- generic [ref=e1]:
+  - group [active] [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - link [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img [ref=e7]
+        - generic [ref=e9]:
+          - img "Retro not protected by password" [ref=e140]
+          - img "More info about Retro tool" [ref=e141]
+          - button "Group & vote comments" [ref=e142] [cursor=pointer]:
+            - text: Group & vote comments
+            - img [ref=e52]
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - generic [ref=e17]: Brainstorm →
+          - generic [ref=e18]: Group & vote →
+          - generic [ref=e19]: Add action items →
+          - generic [ref=e20]: Done
+        - generic [ref=e22]: Add your comments below, you won't be able to see your peers' until next step
+    - generic [ref=e23]:
+      - generic [ref=e25]:
+        - textbox "It worked well that..." [ref=e143]
+        - img [ref=e28]
+      - generic [ref=e30]:
+        - generic [ref=e31]:
+          - textbox "We could improve..." [ref=e144]
+          - img [ref=e34]
+        - generic [ref=e77]:
+          - generic [ref=e78]:
+            - generic [ref=e80]: "#01"
+            - generic [ref=e81]: Meeting time management
+          - generic [ref=e82]:
+            - button "animation" [disabled] [ref=e145]:
+              - button "animation" [ref=e146]:
+                - img [ref=e85]
+            - generic [ref=e93]: "0"
+      - generic [ref=e36]:
+        - generic [ref=e37]:
+          - textbox "I want to ask about..." [ref=e147]
+          - img [ref=e40]
+        - generic [ref=e97]:
+          - generic [ref=e98]:
+            - generic [ref=e100]: "#02"
+            - generic [ref=e101]: What are our sprint goals?
+          - generic [ref=e102]:
+            - button "animation" [disabled] [ref=e148]:
+              - button "animation" [ref=e149]:
+                - img [ref=e105]
+            - generic [ref=e113]: "0"
+      - generic [ref=e43]:
+        - textbox "We need to do..." [disabled] [ref=e150]
+        - img [ref=e46]
+  - log [ref=e48]
+  - log [ref=e49]
+  - log [ref=e50]

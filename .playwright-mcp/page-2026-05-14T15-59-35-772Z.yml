@@ -1,0 +1,57 @@
+- generic [ref=e1]:
+  - group [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - link [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img [ref=e7]
+        - generic [ref=e9]:
+          - img [ref=e74]
+          - img [ref=e75]
+          - button [ref=e76] [cursor=pointer]:
+            - text: Group & vote comments
+            - img [ref=e52]
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - generic [ref=e17]: Brainstorm →
+          - generic [ref=e18]: Group & vote →
+          - generic [ref=e19]: Add action items →
+          - generic [ref=e20]: Done
+        - generic [ref=e22]: Add your comments below, you won't be able to see your peers' until next step
+    - generic [ref=e23]:
+      - generic [ref=e24]:
+        - generic [ref=e25]:
+          - textbox [ref=e77]:
+            - /placeholder: It worked well that...
+          - img [ref=e28]
+        - generic [ref=e57]:
+          - generic [ref=e58]:
+            - generic [ref=e60]: "#00"
+            - generic [ref=e61]: Test comment
+          - generic [ref=e62]:
+            - button [disabled] [ref=e78]:
+              - button [ref=e79]:
+                - img [ref=e65]
+            - generic [ref=e73]: "0"
+      - generic [ref=e31]:
+        - textbox [ref=e80]:
+          - /placeholder: We could improve...
+        - img [ref=e34]
+      - generic [ref=e37]:
+        - textbox [ref=e81]:
+          - /placeholder: I want to ask about...
+        - img [ref=e40]
+      - generic [ref=e43]:
+        - textbox [disabled] [ref=e82]:
+          - /placeholder: We need to do...
+        - img [ref=e46]
+  - log [ref=e48]
+  - log [ref=e49]
+  - log [ref=e50]
+  - generic [ref=e84]:
+    - generic [ref=e85]: Are you sure?
+    - generic [ref=e86]: Everyone will see all comments and this can't be undone.
+    - button [ref=e87] [cursor=pointer]: Cancel
+    - button [active] [ref=e88] [cursor=pointer]:
+      - text: Group & vote comments
+      - img [ref=e89]
